@@ -1,7 +1,7 @@
 # 🐹 Multichain Drainer (without blockaid warning)
 **Please ⭐ the repo to support this project & follow next updates**
 
-# If you want to purchase, contact [@mr_inferno](https://t.me/mr_inferno) on telegram**
+# If you want to purchase, contact [@mr_inferno](https://t.me/mr_inferno) on telegram
 
 ### Welcome dear cyber-criminals! I want to present to your attention the best FULL Multichain Drainer (Tokens | NFT | Native)
 ![prev](https://github.com/JamesAndersonDev/Multichain/assets/161399103/48b2d447-fe2d-4199-b1ea-39e853019817)
