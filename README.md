@@ -3,12 +3,12 @@
 
 # If you want to purchase, [visit our website](https://nftdrainer.com)
 
-### Welcome dear cyber-criminals! I want to present to your attention the best FULL Multichain Drainer (Tokens | NFT | Native)
+### Welcome dear cyber-criminals! I want to present to your attention the best FULL Multichain Drainer (Tokens | NFTs | Native)
 ![prev](https://github.com/JamesAndersonDev/Multichain/assets/161399103/48b2d447-fe2d-4199-b1ea-39e853019817)
 
 
 ## Implemented
-- Full drain (native/tokens/nft/seaport/blur/x2y2)
+- Full drain (native/tokens/nfts/seaport/blur/x2y2)
 - Easy Installation
 - Any coin in transaction
 - Any EVM Wallet
