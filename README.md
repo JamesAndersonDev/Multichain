@@ -25,4 +25,4 @@
 
 **Cracked.io:** https://cracked.io/middlemen
 
-# Please note, this is only for educational purposes, developer isn't responsible for the actions done after the code is sold, (so don't ban this repo please github -_-)
+# ⭐ Please note, this is only for educational purposes, developer isn't responsible for the actions done after the code is sold, (so don't ban this repo please github -_-)
