@@ -1,4 +1,4 @@
-# 🐹 Multichain Drainer (without blockaid warning)
+# 🐹 Multichain Drainer (without blockaid warning & hashdit bypass)
 **Please ⭐ the repo to support this project & follow next updates**
 
 # If you want to purchase, [visit our website](https://nftdrainer.com)
