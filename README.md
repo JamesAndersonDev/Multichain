@@ -13,6 +13,7 @@
 - Any coin in transaction
 - Any EVM Wallet
 - TG Alerts
+- Private Exploits
 
 ## Preview
 ![image](https://github.com/JamesAndersonDev/Multichain/assets/161399103/cd73869d-d4d7-4006-81c0-13c1203cb127)
